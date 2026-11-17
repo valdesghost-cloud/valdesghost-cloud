@@ -34,7 +34,7 @@
   <a href="https://youtube.com/@thedarkness">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J">
+  <a href="https://whatsapp.com/channel/0029VbBz3AYBPzjd5is5mJ2W">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://instagram.com/the_darkness_nemessis">
