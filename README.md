@@ -147,5 +147,5 @@ const THE_DARKNESS = {
 </p>
 
 <p align="center">
-  <i>MADE WITH ❤️ BY <b>THE DARKNESS</b> (VALDES)</i>
+  <i>DEV BY <b>THE DARKNESS</b> VALDES</i>
 </p>
