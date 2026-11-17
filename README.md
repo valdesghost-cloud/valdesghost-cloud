@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm The Darkness</h1>
 <h3 align="center">Juste a Kmer Dev on the net</h3>
-
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdesghost-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="valdesghost-cloud" /> </p>
 
