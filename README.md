@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Real+Name:+Valdes+%F0%9F%91%8B;D%C3%A9Dveloppeur+web+et+de+bots+WhatsApp+et+Telegram+%F0%9F%A4%96;Passionn%C3%A9+JavaScript+%2F+Node.js+%F0%9F%9A%80;Passionn%C3%A9+de+code+et+d%27anim%C3%A9s+%F0%9F%8E%8C" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Real+Name:+Valdes+%F0%9F%91%8B;D%C3%A9veloppeur+web+et+de+bots+WhatsApp+et+Telegram+%F0%9F%A4%96;Passionn%C3%A9+JavaScript+%2F+Node.js+%F0%9F%9A%80;Passionn%C3%A9+de+code+et+d%27anim%C3%A9s+%F0%9F%8E%8C" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -45,13 +45,20 @@
 
 ## 🧑‍💻 About Me
 
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+
 ```javascript
+// ── IDENTITY CARD ──────────────────────────
 const THE_DARKNESS = {
+    alias      : "The Darkness",
     realName   : "Valdes",
-    role       : "Développeur Web & Créateur de bots WhatsApp / Telegram",
-    languages  : ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "Python"],
-    interests  : ["Bot Development", "Open Source", "Anime", "Automation", "IA"],
-    location   : "🌍 Internet",
-    currentFocus: "Building powerful bots & awesome web tools",
-    motto      : "Code with passion, deploy with pride 🔥"
+    tagline    : "Je ne code pas des lignes, je forge des expériences.",
+    role       : "Dev Web • Bot Engineer • Automatisation",
+    stack      : ["JavaScript", "Node.js", "Python", "HTML/CSS"],
+    obsession  : "Les bots qui répondent plus vite que l'humain",
+    carburant  : ["Café ☕", "Anime 🎌", "Code propre 🧼"],
+    philosophie: "Si ça peut être automatisé, ça doit l'être.",
+    signature  : "🌑 The Darkness — là où le code rencontre l'ombre."
 };
