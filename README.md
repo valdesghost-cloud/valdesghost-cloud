@@ -62,3 +62,23 @@ const THE_DARKNESS = {
     philosophie: "Si ça peut être automatisé, ça doit l'être.",
     signature  : "🌑 The Darkness — là où le code rencontre l'ombre."
 };
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== FOOTER BANNER (bas de page) ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,50:FF0000,100:FFD700&height=150&section=footer&text=The%20Darkness%20%7C%20Valdes&fontSize=35&fontAlignY=70&animation=fadeIn&fontColor=white&desc=Code%20open%20source%20-%20Dev%20web%20et%20bot&descAlignY=88&descSize=14"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=500&lines=Merci+de+ta+visite+%F0%9F%91%8B;Let%27s+build+something+amazing+%F0%9F%9A%80;%C3%80+bient%C3%B4t+sur+le+net+%F0%9F%8C%90" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <i>MADE WITH ❤️ BY <b>THE DARKNESS</b> (VALDES)</i>
+</p>
