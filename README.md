@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF0000,100:FFFFFF&height=220&section=header&text=👋%20Dawens%20%7C%20INCONNU%20BOY%20SENSEI&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
+</p>
 <h1 align="center">Hi 👋, I'm The Darkness</h1>
 <h3 align="center">Juste a Kmer Dev on the net</h3>
 <p align="center">
