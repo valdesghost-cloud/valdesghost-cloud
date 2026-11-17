@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Real+Name:+Valdes+%F0%9F%91%8B;D%C3%A9veloppeur+web+et+de+bots+WhatsApp+et+Telegram+%F0%9F%A4%96;Passionn%C3%A9+JavaScript+%2F+Node.js+%F0%9F%9A%80;Passionn%C3%A9+de+code+et+d%27anim%C3%A9s+%F0%9F%8E%8C" alt="Typing SVG"/>
 </p>
 
-<h3 align="center">Juste a Kmer Dev on the net</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Juste+%C3%A0+Kmer+Dev+on+the+net+%F0%9F%92%9C;The+Darkness+%7C+Valdes+%F0%9F%8C%91;Code+%26+Create+%E2%9A%A1" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
