@@ -19,7 +19,7 @@
 - 📫 How to reach me **valdesghost87@gmail.com**
 
 - ⚡ Fun fact **suis plutôt drôle ouais**
-
+<img src="https://readme-typing-svg.demolab.com?duration=4000&color=00D9FF&center=true&vCenter=true&lines=developpeur+web+et+bot">
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
