@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF0000,100:00008B&height=220&section=header&text=👋%20The%20Darkness%20%7C%20Valdes&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Code%20open%20source%20%7C%20Dev%20web%20%26%20bot&descAlignY=60&descSize=18"/>
 </p>
-
-<!-- Texte défilant (typing SVG) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Real+Name:+Dawens+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90+%26+WhatsApp+%2F+Telegram+Bot+Developer+%F0%9F%A4%96;JavaScript+%2F+Node.js+Enthusiast+%F0%9F%9A%80;Passionate+about+Code+%26+Anime+%F0%9F%8E%8C" alt="Typing SVG"/>
-</p>
 <h1 align="center">Hi 👋, I'm The Darkness</h1>
 <h3 align="center">Juste a Kmer Dev on the net</h3>
 <p align="center">
