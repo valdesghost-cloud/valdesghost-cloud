@@ -1,3 +1,7 @@
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        HEADER / BANNIÈRE                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF0000,100:00008B&height=220&section=header&text=The%20Darkness%20%7C%20Valdes&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Code%20open%20source%20-%20Dev%20web%20et%20bot&descAlignY=60&descSize=18"/>
 </p>
@@ -16,13 +20,23 @@
 
 ---
 
-## 👁️ Profile Views
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      IDENTITÉ & VUES                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 👁️ Profile Views & Identity
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=valdesghost-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="valdesghost-cloud" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Real%20Name-Valdes-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Real Name"/>
 </p>
 
 ---
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        BADGES SOCIAUX                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 🔗 Social Badges
 
@@ -42,6 +56,10 @@
 </p>
 
 ---
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT ME                               -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
